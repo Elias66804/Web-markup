@@ -7,13 +7,13 @@ article{
     border: 5px solid rgb(38, 0, 255);
     padding: 10px;
     margin: 20px;
-    flex: 1;
+    float: left;
 }
 aside{
     border: 5px solid rgb(68, 4, 195);
     padding: 10px;
     margin: 20px;
-    flex: 2;
+    float: right;
 }
 footer{
     border: 5px solid rgb(98, 7, 7);
