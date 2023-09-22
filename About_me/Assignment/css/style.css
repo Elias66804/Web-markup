@@ -1,0 +1,14 @@
+section{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+}
+p{
+    display: flex;
+    margin: 40px;
+    border: 40px solid blue;
+    padding: 40px;
+    background: green;
+}
