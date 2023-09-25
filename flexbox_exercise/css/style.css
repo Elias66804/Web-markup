@@ -1,3 +1,10 @@
+section{
+    display:flex;
+    border: solid red 5px;
+    width: 1000px;
+    height: 800px;
+    flex-direction: vertical;
+}
 .box{
     width: 200px;
     height: 200px;
