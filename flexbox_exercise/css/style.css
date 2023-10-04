@@ -1,3 +1,8 @@
+body{
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
 section{
     display:flex;
     border: solid red 5px;
@@ -6,13 +11,44 @@ section{
     justify-content: center;
     align-items: center;
 }
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 .box{
-    width: 200px;
-    height: 200px;
-    background-color: lightblue;
-    margin: 20px;
     padding: 20px;
     font-size: 50px;
     text-align: center;
+
+}
+header{
+    min-height: 60px; 
+    background-color: lightcoral;
+
+}
+footer{
+    min-height: 60px;
+    background-color: lightgreen;
+}
+.boxleft{
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    width: 25%;
+
+}
+.boxright{
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    width: 25%;
+
+}
+.boxcenter{
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    width: 50%;
 
 }
