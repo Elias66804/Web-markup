@@ -5,7 +5,6 @@ header {
   height: 200px;
   background: #000000;
 }
-
 .logo {
   position: absolute;
   width: 139px;
@@ -13,7 +12,6 @@ header {
   left: 50px;
   top: 32px;
 }
-
 .Haarlem,
 .Nl,
 .Student,
@@ -26,7 +24,6 @@ header {
   align-items: flex-end;
   color: white;
 }
-
 main {
   font-family: "Outfit";
   font-style: normal;
@@ -35,7 +32,6 @@ main {
   line-height: 70px;
   color: #ffffff;
 }
-
 .Haarlem {
   position: absolute;
   left: 55%;
@@ -43,7 +39,6 @@ main {
   top: 20%;
   bottom: 52%;
 }
-
 .Nl {
   position: absolute;
   left: 65%;
@@ -51,7 +46,6 @@ main {
   top: 20%;
   bottom: 52%;
 }
-
 .Student {
   position: absolute;
   left: 74%;
@@ -59,7 +53,6 @@ main {
   top: 20%;
   bottom: 51%;
 }
-
 .abus {
   position: absolute;
   left: 85%;
@@ -67,7 +60,6 @@ main {
   top: 20%;
   bottom: 51%;
 }
-
 .textimg {
   position: absolute;
   width: 1170px;
@@ -78,7 +70,6 @@ main {
   align-items: center;
   text-align: center;
 }
-
 .Learn_btn {
   position: absolute;
   width: 263px;
@@ -88,7 +79,6 @@ main {
   background: #c52e11;
   border-radius: 15px;
 }
-
 .LEARN {
   position: absolute;
   width: 251px;
@@ -100,7 +90,6 @@ main {
   align-items: center;
   text-align: center;
 }
-
 .title {
   position: absolute;
   width: 608px;
@@ -111,17 +100,17 @@ main {
   align-items: center;
   text-align: center;
 }
-
 .MainImage {
   position: absolute;
   width: 1441px;
   height: 901px;
   top: 187px;
-  background: linear-gradient(180deg,
-      rgba(0, 0, 0, 0.4) 0%,
-      rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.4) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
 }
-
 .Haarlem1 {
   position: absolute;
   width: 993px;
@@ -130,7 +119,6 @@ main {
   top: 1262px;
   border-radius: 110px;
 }
-
 .red {
   position: absolute;
   width: 1441px;
@@ -154,7 +142,6 @@ main {
   align-items: center;
   color: #000000;
 }
-
 .Nlflag {
   position: absolute;
   width: 172px;
@@ -162,7 +149,6 @@ main {
   left: 186px;
   top: 2246px;
 }
-
 .Netherlands {
   position: absolute;
   width: 176px;
@@ -178,7 +164,6 @@ main {
   align-items: center;
   color: #000000;
 }
-
 .NHflag {
   position: absolute;
   width: 172px;
@@ -186,7 +171,6 @@ main {
   left: 631px;
   top: 2246px;
 }
-
 .North_Holland {
   position: absolute;
   width: 206px;
@@ -202,7 +186,6 @@ main {
   align-items: center;
   color: #000000;
 }
-
 .haarlemflag {
   position: absolute;
   width: 178px;
@@ -211,7 +194,6 @@ main {
   top: 2246px;
   border: 1px solid #000000;
 }
-
 .Haarlemforflag {
   position: absolute;
   width: 130px;
@@ -227,7 +209,6 @@ main {
   align-items: center;
   color: #000000;
 }
-
 .ToProject1 {
   position: absolute;
   width: 598.97px;
@@ -260,7 +241,6 @@ main {
 
   color: #ffffff;
 }
-
 .text-other-page {
   position: absolute;
   width: 309.98px;
@@ -277,7 +257,6 @@ main {
 
   color: #ffffff;
 }
-
 button.to-page {
   display: flex;
   flex-direction: row;
@@ -295,7 +274,6 @@ button.to-page {
   background: #ffffff;
   border-radius: 4px;
 }
-
 .Sign_up {
   width: 95px;
   height: 14px;
@@ -306,7 +284,6 @@ button.to-page {
   line-height: 100%;
   color: #000000;
 }
-
 /* This is the footer */
 footer {
   position: absolute;
@@ -320,7 +297,6 @@ footer {
   color: #ffffff;
   text-align: center;
 }
-
 .Request {
   position: absolute;
   height: 60px;
@@ -331,7 +307,6 @@ footer {
   font-size: 47.6429px;
   line-height: 60px;
 }
-
 .quote {
   position: absolute;
   height: 34px;
@@ -345,7 +320,6 @@ footer {
   text-transform: uppercase;
   opacity: 0.6;
 }
-
 .Lastquote {
   position: absolute;
   height: 51px;
@@ -360,7 +334,6 @@ footer {
   mix-blend-mode: normal;
   opacity: 0.8;
 }
-
 button.Contact {
   display: flex;
   flex-direction: row;
@@ -378,7 +351,6 @@ button.Contact {
   background: #ffffff;
   border-radius: 4px;
 }
-
 .CopyRight {
   position: absolute;
   height: 17px;
@@ -391,7 +363,6 @@ button.Contact {
   mix-blend-mode: normal;
   opacity: 0.8;
 }
-
 .Line {
   position: absolute;
   left: 12.17%;
@@ -402,7 +373,6 @@ button.Contact {
   opacity: 0.2;
   border: 0.952857px solid #ffffff;
 }
-
 .logoFooter {
   position: absolute;
   width: 130px;
@@ -410,11 +380,9 @@ button.Contact {
   left: 655px;
   top: 458px;
 }
-
 .cookie-message {
   z-index: 9999;
 }
-
 a {
   text-decoration: none;
 }
@@ -426,7 +394,6 @@ a:hover {
 a:active {
   background-color: yellow;
 }
-
 .cookie-message {
   position: fixed;
   bottom: 0;
@@ -445,7 +412,6 @@ a:active {
   padding: 5px 15px;
   cursor: pointer;
 }
-
 .redlast1 {
   position: absolute;
   width: 598.97px;
@@ -455,7 +421,6 @@ a:active {
   background: #a60e14;
   border-radius: 30px;
 }
-
 .titleLast1 {
   position: absolute;
   width: 299px;
@@ -472,7 +437,6 @@ a:active {
   text-align: center;
   color: #ffffff;
 }
-
 .textLast1 {
   position: absolute;
   width: 309.98px;
@@ -488,7 +452,6 @@ a:active {
   align-items: center;
   color: #ffffff;
 }
-
 .redlast2 {
   position: absolute;
   width: 598.97px;
@@ -498,7 +461,6 @@ a:active {
   background: #a60e14;
   border-radius: 30px;
 }
-
 .textLast2 {
   position: absolute;
   width: 309.98px;
@@ -514,7 +476,6 @@ a:active {
   align-items: center;
   color: #ffffff;
 }
-
 .titleLast2 {
   position: absolute;
   width: 385px;
@@ -531,7 +492,6 @@ a:active {
   text-align: center;
   color: #ffffff;
 }
-
 .redlast3 {
   position: absolute;
   width: 598.97px;
@@ -541,117 +501,112 @@ a:active {
   background: #a60e14;
   border-radius: 30px;
 }
-
 .textLast3 {
-  position: absolute;
-  width: 309.98px;
-  height: 120.15px;
-  right: 352.09px;
-  top: 2889.03px;
-  font-family: 'Outfit';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 27px;
-  display: flex;
-  align-items: center;
-  color: #FFFFFF;
+position: absolute;
+width: 309.98px;
+height: 120.15px;
+right: 352.09px;
+top: 2889.03px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
 }
-
 .titleLast3 {
-  position: absolute;
-  width: 262px;
-  height: 55px;
-  left: 768px;
-  top: 2813px;
-  font-family: 'Outfit';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 30px;
-  line-height: 29px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  color: #FFFFFF;
+position: absolute;
+width: 262px;
+height: 55px;
+left: 768px;
+top: 2813px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
 }
-
-.lastb1 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 14px 16px;
-  gap: 40px;
-  position: absolute;
-  width: 86px;
-  height: 42px;
-  left: 1186px;
-  top: 2680px;
-  background: #FFFFFF;
-  border-radius: 4px;
-  width: 80px;
-  height: 14px;
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 100%;
-  color: #000000;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+.lastb1{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 16px;
+gap: 40px;
+position: absolute;
+width: 86px;
+height: 42px;
+left: 1186px;
+top: 2680px;
+background: #FFFFFF;
+border-radius: 4px;
+width: 80px;
+height: 14px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
 }
-
-.lastb2 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 14px 16px;
-  gap: 40px;
-  position: absolute;
-  width: 127px;
-  height: 42px;
-  left: 537px;
-  top: 2972px;
-  background: #FFFFFF;
-  border-radius: 4px;
-  width: 140px;
-  height: 14px;
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 100%;
-  color: #000000;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+.lastb2{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 16px;
+gap: 40px;
+position: absolute;
+width: 127px;
+height: 42px;
+left: 537px;
+top: 2972px;
+background: #FFFFFF;
+border-radius: 4px;
+width: 140px;
+height: 14px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
 }
-
-.lastb3 {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 14px 16px;
-  gap: 40px;
-  position: absolute;
-  width: 100px;
-  height: 42px;
-  left: 1172px;
-  top: 2972px;
-  background: #FFFFFF;
-  border-radius: 4px;
-  width: 90px;
-  height: 14px;
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 100%;
-  color: #000000;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+.lastb3{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 16px;
+gap: 40px;
+position: absolute;
+width: 100px;
+height: 42px;
+left: 1172px;
+top: 2972px;
+background: #FFFFFF;
+border-radius: 4px;
+width: 90px;
+height: 14px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
 }
