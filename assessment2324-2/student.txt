@@ -1,0 +1,3 @@
+Student name: Othmane Sarhane
+Student number: 723252
+Student class: IT1F
