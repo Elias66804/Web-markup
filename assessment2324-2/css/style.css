@@ -625,7 +625,7 @@ table, th, td {
   border-collapse: collapse;
 }
 table {
-  display: block;
+  display: none;
 }
 table th{
   border-bottom-width: 3px;
