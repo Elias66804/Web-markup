@@ -1,5 +1,0 @@
-Student name: Othmane Sarhane
-Student number: 723252
-Student class: IT1F
-Github page Url :https://elias66804.github.io/Web-markup/assessment2324/index.html
-Github Repository :https://github.com/Elias66804/Web-markup
