@@ -626,6 +626,7 @@ table, th, td {
 }
 table {
   display: none;
+  visibility: hidden;
 }
 table th{
   border-bottom-width: 3px;
