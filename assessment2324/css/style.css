@@ -343,7 +343,7 @@ footer {
   mix-blend-mode: normal;
   opacity: 0.8;
 }
-button.Contact:visited {
+button.Contact:active {
   display: flex;
   flex-direction: row;
   justify-content: center;
